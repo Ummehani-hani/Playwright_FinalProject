@@ -1,0 +1,25 @@
+[
+  {
+    "username": "HaniTester",
+    "password": "HaniTester",
+    "location": "Sydney",
+    "hotel": "Hotel Creek",
+    "roomType": "Standard",
+    "firstName": "Umm E",
+    "lastName": "Hani",
+    "address": "123 Test Street, Sydney",
+    "ccNum": "4111111111111111"
+  },
+  {
+    "username": "HaniTester",
+    "password": "HaniTester",
+    "location": "Paris",
+    "hotel": "Hotel Creek",
+    "roomType": "Standard",
+    "firstName": "Umm E",
+    "lastName": "Hani",
+    "address": "123 Test Street, Sydney",
+    "ccNum": "4111111111111111"
+  }
+]
+

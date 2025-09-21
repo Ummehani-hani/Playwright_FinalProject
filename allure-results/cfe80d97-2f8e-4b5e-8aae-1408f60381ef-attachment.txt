@@ -1,0 +1,3 @@
+=== Before All: Test Suite Started ===
+>>> Before Each: Starting a new test <<<
+<<< After Each: Test Completed >>>

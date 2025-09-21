@@ -1,0 +1,14 @@
+[
+  {
+    "username": "HaniTester",
+    "password": "HaniTester",
+    "expected": "Welcome to Adactin Group of Hotels",
+    "valid": true
+  },
+  {
+    "username": "WrongUser",
+    "password": "WrongPass",
+    "expected": "Invalid Login details or Your Password might have expired.",
+    "valid": false
+  }
+]

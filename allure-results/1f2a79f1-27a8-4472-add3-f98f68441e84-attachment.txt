@@ -1,0 +1,1 @@
+{ id: '6', title: 'Updated PATCH via Playwright', views: 1000 }
